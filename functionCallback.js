@@ -1,5 +1,5 @@
 let adicionarQueijo = function(){
-    console.log("Adicionar Queijo");
+    console.log("3. Adicionar Queijo");
 }
 
 let fazerLanche = function(callback){
